@@ -3242,11 +3242,11 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #32313d;
+			background-color: #282c38;
 		}
 
 		.wrapper.style1-alt {
-			background-color: #32313d;
+			background-color: #282c38;
 		}
 
 		.wrapper.style2 {
@@ -3526,7 +3526,7 @@ input, select, textarea {
 
 	#sidebar {
 		padding: 2.5em 2.5em 0.5em 2.5em ;
-		background: #282c38;
+		background: #12171a;
 		cursor: default;
 		height: 100vh;
 		left: 0;
@@ -3764,7 +3764,7 @@ input, select, textarea {
 			}
 
 			#sidebar nav a:before {
-				background: #282c38;
+				background: #12171a;
 			}
 
 			#sidebar nav a:after {
@@ -3860,7 +3860,7 @@ input, select, textarea {
 
 						#sidebar nav a:after {
 							background-image: none;
-							background-color: #4e6cb7;
+							background-color: #32b2fa;
 						}
 
 		}
